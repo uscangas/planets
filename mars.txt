@@ -1,1 +1,3 @@
-Mars is a planet in the solar system
+Mars is a planet in the solar system.
+
+Mars has two moons on its orbit.
