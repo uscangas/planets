@@ -1,3 +1,5 @@
 Mars is a planet in the solar system.
 
 Mars has two moons on its orbit.
+
+Also, there is a lack of humidity in Mars.
